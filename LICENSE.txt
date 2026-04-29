@@ -1,0 +1,79 @@
+Academic Non-Commercial Research Licence
+
+Copyright (c) 2026 Hongyu Zhang
+
+Permission is hereby granted to individuals or organisations for the purpose of
+academic research, teaching, or personal study to use, copy, modify, and distribute
+this software and its associated documentation, subject to the following conditions:
+
+1. Permitted Academic Use
+   Academic use includes:
+   - research conducted within universities or publicly funded research institutions
+   - teaching and coursework
+   - theses and dissertations
+   - publication-related analysis
+   - research funded by public or industry sources, provided that the results remain
+     publicly disseminable and are not part of a commercial product or service
+
+2. Prohibited Commercial Use
+   This software may not be used, in whole or in part, for commercial purposes.
+   Commercial purposes include, but are not limited to:
+   - use by companies, consultancies, non-profit organisations, or government agencies
+   - incorporation into proprietary products or services
+   - use in commercial R&D or fee-based projects
+   - use in industrial decision making, optimisation, planning, or operational processes
+   - use in commercial training or commercial educational services
+
+   Non-profit organisations are treated as commercial entities for the purposes of
+   this licence and may not use the software without explicit permission.
+
+3. Prohibited Use for AI Model Training
+   The software, its outputs, structure, documentation, code, or data shall not be:
+   - used to train machine learning models
+   - incorporated into AI datasets
+   - used for fine-tuning, embedding extraction, or feature harvesting
+   - mined for model training corpora
+
+4. Prohibited Military Use
+   The software may not be used for:
+   - military research or development
+   - defence applications
+   - weapons system modelling, optimisation, or planning
+   - dual-use defence-related analysis
+
+5. Modification
+   Academic users are permitted to modify the software, provided that:
+   - the modified version clearly states it has been modified
+   - this licence is retained and applies to all modified versions
+   - modified versions remain non-commercial
+
+6. Redistribution
+   Redistribution is permitted only for non-commercial academic purposes and only if:
+   - this licence is included in full
+   - attribution to the original authors is maintained
+
+7. Citation Requirement
+   Any academic use of this software, including modified versions, must include a
+   citation to the following references:
+	a. Hongyu Zhang, Ignacio E. Grossmann, Ken McKinnon, Brage Rugstad Knudsen, Rodrigo Garcia Nava, Asgeir Tomasgard,
+	Integrated investment, retrofit and abandonment energy system planning with multi-timescale uncertainty using 
+   stabilised adaptive Benders decomposition, European Journal of Operational Research, Volume 325, Issue 2, 2025, Pages 261-280, ISSN 0377-2217, 
+   https://doi.org/10.1016/j.ejor.2025.04.005.
+	b. Hongyu Zhang (2025). Richardzhang0416/REORIENT_Lite, https://doi.org/10.5281/zenodo.17701723.
+
+8. No warranty and liability disclaimer
+   The software is provided “as is”, without warranty of any kind, express or implied,
+   including but not limited to warranties of merchantability, fitness for a particular
+   purpose, and non-infringement. In no event shall the authors or copyright holders
+   be liable for any claim, damages, or other liability, whether in an action of
+   contract, tort, or otherwise, arising from, out of, or in connection with the
+   software or the use or other dealings with the software.
+
+9. Commercial Licensing
+   Organisations wishing to use the software for commercial purposes must obtain a
+   separate commercial licence from the authors.
+
+The authors reserve the right to release future versions of the software under
+different licensing terms.
+
+For clarification, permission requests, or commercial licensing enquiries, contact: zhyzrc@gmail.com
