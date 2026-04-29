@@ -1,0 +1,7 @@
+,technology,VarOM (mn£/GWh),FuelCost (mn£/GWh),CO2_emissions (ktco2/GWh),efficiency,ramping (GW/GW)
+1,Coal,0.00317,0.00574,0.318,0.39,0.7
+2,CoalCCS,0.00675,0.00574,0.032,0.28,0.7
+3,OCGT,0.00736,0.01211,0.181,0.35,4.8
+4,CCGT,0.00232,0.01211,0.181,0.53,1.2
+5,Diesel,0,0.0281,0.25,0.34,18
+6,Nuclear,0.00152,0.008,0,0.33,0.18

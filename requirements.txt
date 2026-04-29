@@ -1,0 +1,17 @@
+pyomo
+pandas
+numpy
+matplotlib
+scipy
+seaborn
+openpyxl
+xlrd
+networkx
+jupyter
+ipykernel
+gurobipy
+tensorflow
+tensorflow-probability
+tensorflow-datasets
+permetrics
+gurobi-machinelearning
